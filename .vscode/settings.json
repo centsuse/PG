@@ -1,0 +1,9 @@
+{
+    "files.associations": {
+        "pg_list.h": "c",
+        "tclint.h": "c",
+        "postgres.h": "c",
+        "parser.h": "c",
+        "scanner.h": "c"
+    }
+}
